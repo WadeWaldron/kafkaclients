@@ -1,0 +1,6 @@
+# SBT
+target
+
+# IntelliJ
+.idea
+.idea_modules
